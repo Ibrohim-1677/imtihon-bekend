@@ -1,0 +1,27 @@
+[
+    {
+        "category_id": 1,
+        "sub_category_id": 1,
+        "sub_category_name": "todur"
+    },
+    {
+        "category_id": 1,
+        "sub_category_id": 2,
+        "sub_category_name": "televisions"
+    },
+    {
+        "category_id": 1,
+        "sub_category_id": 3,
+        "sub_category_name": "laptops"
+    },
+    {
+        "category_id": 2,
+        "sub_category_id": 1,
+        "sub_category_name": "shirt"
+    },
+    {
+        "category_id": 2,
+        "sub_category_id": 2,
+        "sub_category_name": "boot"
+    }
+]
